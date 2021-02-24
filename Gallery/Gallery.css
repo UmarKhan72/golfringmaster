@@ -1,0 +1,11 @@
+.Gallery_Img {
+    width: 200px;
+    height: 300px;
+    margin: 5px;
+    margin-top: 40px;
+    border: 10px solid white;
+}
+
+.img1 {
+    width: 150px;
+}
